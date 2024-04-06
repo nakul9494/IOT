@@ -1,0 +1,10 @@
+led module
+
+GPIO(26) : 37 pin
+GPIO(16) : 36 pin
+GPIO(25) : 22 pin
+GPIO(24) : 18 pin
+GPIO(23) : 16 pin
+GPIO(17) : 11 pin
+GPIO(27) : 13 pin
+GPIO(22) : 15 pin
