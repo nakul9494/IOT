@@ -1,4 +1,4 @@
-led module
+led module connection
 
 GPIO(26) : 37 pin
 GPIO(16) : 36 pin
