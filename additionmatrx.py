@@ -29,5 +29,6 @@ with canvas(device) as draw:
 # Wait for 45 seconds
 sleep(45)
 
+
 # Clear the LED matrix
 device.clear()
